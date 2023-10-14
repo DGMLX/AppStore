@@ -1,0 +1,18 @@
+.caja-auth-principal{
+    background-color: rgb(42, 130, 231);
+    overflow: hidden;
+}
+
+.caja-auth{
+    box-shadow: 2px 5px 5px 5px rgba(0, 0, 0, 0.2);
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+}
+
+.caja-body-principal{ 
+    background-color: white;
+    overflow: hidden;
+}
